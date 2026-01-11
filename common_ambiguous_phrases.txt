@@ -1,0 +1,535 @@
+do something
+make a decision
+take action
+start working
+keep going
+move forward
+try again
+change direction
+follow through
+step back
+move on
+take control
+lose control
+gain experience
+build something
+break things down
+set things up
+put things together
+take something apart
+bring it up
+carry on
+hold back
+push forward
+slow things down
+speed things up
+open things up
+close things off
+think about it
+consider the options
+figure it out
+work it out
+try to understand
+make sense of it
+look into it
+reflect on it
+question the idea
+doubt the result
+expect something
+assume something
+believe in something
+notice a change
+recognize the pattern
+lose focus
+pay attention
+ignore the details
+talk about it
+speak up
+reach out
+connect with others
+share an idea
+express concern
+ask for help
+give feedback
+take part
+join the process
+work together
+deal with people
+handle the situation
+manage expectations
+face the issue
+avoid conflict
+end up somewhere
+lead to something
+result in change
+cause a problem
+solve an issue
+fix things
+improve the situation
+make progress
+reach a point
+come to an end
+fall apart
+come together
+turn into something
+go wrong
+work out
+fail to happen
+follow the rules
+break the rules
+meet the requirements
+miss the point
+stick to the plan
+change the plan
+set a goal
+reach a goal
+lose direction
+define the problem
+address the issue
+raise a question
+lower expectations
+maintain control
+give permission
+take responsibility
+do the right thing
+do what is needed
+do what makes sense
+make it work
+make things happen
+take things seriously
+let things happen
+see what happens
+wait and see
+go with it
+leave it open
+keep it vague
+do the situation
+do the problem
+do the process
+do the idea
+do the issue
+do the system
+do the result
+do the outcome
+do the plan
+do the structure
+do the details
+do the context
+do the task
+do the change
+make something
+make the situation
+make the problem
+make the process
+make the idea
+make the issue
+make the system
+make the result
+make the outcome
+make the plan
+make the structure
+make the details
+make the context
+make the task
+make the change
+take something
+take the situation
+take the problem
+take the process
+take the idea
+take the issue
+take the system
+take the result
+take the outcome
+take the plan
+take the structure
+take the details
+take the context
+take the task
+take the change
+start something
+start the situation
+start the problem
+start the process
+start the idea
+start the issue
+start the system
+start the result
+start the outcome
+start the plan
+start the structure
+start the details
+start the context
+start the task
+start the change
+keep something
+keep the situation
+keep the problem
+keep the process
+keep the idea
+keep the issue
+keep the system
+keep the result
+keep the outcome
+keep the plan
+keep the structure
+keep the details
+keep the context
+keep the task
+keep the change
+move something
+move the situation
+move the problem
+move the process
+move the idea
+move the issue
+move the system
+move the result
+move the outcome
+move the plan
+move the structure
+move the details
+move the context
+move the task
+move the change
+change something
+change the situation
+change the problem
+change the process
+change the idea
+change the issue
+change the system
+change the result
+change the outcome
+change the structure
+change the details
+change the context
+change the task
+change the change
+follow something
+follow the situation
+follow the problem
+follow the process
+follow the idea
+follow the issue
+follow the system
+follow the result
+follow the outcome
+follow the plan
+follow the structure
+follow the details
+follow the context
+follow the task
+follow the change
+try something
+try the situation
+try the problem
+try the process
+try the idea
+try the issue
+try the system
+try the result
+try the outcome
+try the plan
+try the structure
+try the details
+try the context
+try the task
+try the change
+work something
+work the situation
+work the problem
+work the process
+work the idea
+work the issue
+work the system
+work the result
+work the outcome
+work the plan
+work the structure
+work the details
+work the context
+work the task
+work the change
+think something
+think the situation
+think the problem
+think the process
+think the idea
+think the issue
+think the system
+think the result
+think the outcome
+think the plan
+think the structure
+think the details
+think the context
+think the task
+think the change
+consider something
+consider the situation
+consider the problem
+consider the process
+consider the idea
+consider the issue
+consider the system
+consider the result
+consider the outcome
+consider the plan
+consider the structure
+consider the details
+consider the context
+consider the task
+consider the change
+handle something
+handle the problem
+handle the process
+handle the idea
+handle the issue
+handle the system
+handle the result
+handle the outcome
+handle the plan
+handle the structure
+handle the details
+handle the context
+handle the task
+handle the change
+manage something
+manage the situation
+manage the problem
+manage the process
+manage the idea
+manage the issue
+manage the system
+manage the result
+manage the outcome
+manage the plan
+manage the structure
+manage the details
+manage the context
+manage the task
+manage the change
+deal something
+deal the situation
+deal the problem
+deal the process
+deal the idea
+deal the issue
+deal the system
+deal the result
+deal the outcome
+deal the plan
+deal the structure
+deal the details
+deal the context
+deal the task
+deal the change
+face something
+face the situation
+face the problem
+face the process
+face the idea
+face the system
+face the result
+face the outcome
+face the plan
+face the structure
+face the details
+face the context
+face the task
+face the change
+avoid something
+avoid the situation
+avoid the problem
+avoid the process
+avoid the idea
+avoid the issue
+avoid the system
+avoid the result
+avoid the outcome
+avoid the plan
+avoid the structure
+avoid the details
+avoid the context
+avoid the task
+avoid the change
+build the situation
+build the problem
+build the process
+build the idea
+build the issue
+build the system
+build the result
+build the outcome
+build the plan
+build the structure
+build the details
+build the context
+build the task
+build the change
+break something
+break the situation
+break the problem
+break the process
+break the idea
+break the issue
+break the system
+break the result
+break the outcome
+break the plan
+break the structure
+break the details
+break the context
+break the task
+break the change
+set something
+set the situation
+set the problem
+set the process
+set the idea
+set the issue
+set the system
+set the result
+set the outcome
+set the plan
+set the structure
+set the details
+set the context
+set the task
+set the change
+open something
+open the situation
+open the problem
+open the process
+open the idea
+open the issue
+open the system
+open the result
+open the outcome
+open the plan
+open the structure
+open the details
+open the context
+open the task
+open the change
+close something
+close the situation
+close the problem
+close the process
+close the idea
+close the issue
+close the system
+close the result
+close the outcome
+close the plan
+close the structure
+close the details
+close the context
+close the task
+close the change
+push something
+push the situation
+push the problem
+push the process
+push the idea
+push the issue
+push the system
+push the result
+push the outcome
+push the plan
+push the structure
+push the details
+push the context
+push the task
+push the change
+pull something
+pull the situation
+pull the problem
+pull the process
+pull the idea
+pull the issue
+pull the system
+pull the result
+pull the outcome
+pull the plan
+pull the structure
+pull the details
+pull the context
+pull the task
+pull the change
+hold something
+hold the situation
+hold the problem
+hold the process
+hold the idea
+hold the issue
+hold the system
+hold the result
+hold the outcome
+hold the plan
+hold the structure
+hold the details
+hold the context
+hold the task
+hold the change
+bring something
+bring the situation
+bring the problem
+bring the process
+bring the idea
+bring the issue
+bring the system
+bring the result
+bring the outcome
+bring the plan
+bring the structure
+bring the details
+bring the context
+bring the task
+bring the change
+carry something
+carry the situation
+carry the problem
+carry the process
+carry the idea
+carry the issue
+carry the system
+carry the result
+carry the outcome
+carry the plan
+carry the structure
+carry the details
+carry the context
+carry the task
+carry the change
+lose something
+lose the situation
+lose the problem
+lose the process
+lose the idea
+lose the issue
+lose the system
+lose the result
+lose the outcome
+lose the plan
+lose the structure
+lose the details
+lose the context
+lose the task
+lose the change
+gain something
+gain the situation
+gain the problem
+gain the process
+gain the idea
+gain the issue
+gain the system
+gain the result
+gain the outcome
+gain the plan
+gain the structure
+gain the details
+gain the context
+gain the task
+gain the change
