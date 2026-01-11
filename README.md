@@ -10,7 +10,7 @@ My main goal was to explore what happens when meaning is averaged in a computati
 
 1. **Analyze the sentences**: I use **spaCy** to extract subject-verb-object (SVO) structures from two input sentences.
 2. **Compute semantic vectors**: For each SVO element, the code considers word-level vectors and optionally phrase/chunk-level vectors (e.g., noun phrases, subject-verb or verb-object spans).
-3. **Pick candidate words**: Using a curated list of common English words, the system selects words closest to the semantic midpoint while respecting part-of-speech constraints.
+3. **Pick candidate words**: Using a curated list of common English words, the system selects words closest to the semantic midpoint of the two sentences. It does this respectively for Subject, Verb, Object. 
 4. **Assemble the sentence**: The chosen words are combined into a new SVO sentence.
 
 The goal is not grammatical perfection — it is to experiment with what a **mathematical “middle meaning”** looks like in AI-generated text.
@@ -41,7 +41,7 @@ This output is abstract, funny, and illustrates how semantic averaging can produ
 
 Based on my professor’s feedback, I also wanted to explore **statistical averageness**: could we use a curated set of **commonly occurring, vague phrases** to simulate ambiguity?  
 
-- I created a text file (`common_ambiguous_phrases.txt`) containing **high-frequency, grammatically correct VO pairs** like “do something,” “take part,” “deal with.”  
+- I used ChatGPT to create a text file (`common_ambiguous_phrases.txt`) containing **high-frequency, grammatically correct VO pairs** like “do something,” “take part,” “deal with.”  
 - Separately, I defined a list of ambiguous subjects like “someone,” “people,” or “they.”  
 - The code compares each SVO element of the two input sentences to the vectors of these phrases.  
 - Instead of calculating a midpoint, the system selects the **phrase with the highest average similarity to both sentences**.  
